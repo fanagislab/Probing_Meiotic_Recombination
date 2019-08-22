@@ -1,0 +1,18 @@
+HMM parameters
+
+#States: F, M
+
+#Alphabet: f, m
+
+#Initial: 0.5, 0.5
+
+#Transition matrix:
+S\S	F	M
+F	0.9999	0.0001
+M	0.0001	0.9999
+
+#Emission matrix:
+S\A	f	m
+F	0.99	0.01
+M	0.01	0.99
+

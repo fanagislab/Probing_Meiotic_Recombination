@@ -1,0 +1,41 @@
+SampleID: EMDA101102
+
+Pair-End:
+
+/WPS/BP/fanwei/1.Fuyusi_project/00.extracted_reads/EMDA101102_R1.gz
+/WPS/BP/fanwei/1.Fuyusi_project/00.extracted_reads/EMDA101102_R2.gz
+
+
+SampleID: EMDA101105
+
+Pair-End:
+/WPS/BP/fanwei/1.Fuyusi_project/00.extracted_reads/EMDA101105_R1.gz
+/WPS/BP/fanwei/1.Fuyusi_project/00.extracted_reads/EMDA101105_R2.gz
+
+SampleID: EMDA101103
+
+Pair-End:
+/WPS/BP/fanwei/1.Fuyusi_project/00.extracted_reads/EMDA101103_R1.gz 
+/WPS/BP/fanwei/1.Fuyusi_project/00.extracted_reads/EMDA101103_R2.gz 
+
+SampleID: EMDA101111
+
+Pair-End
+
+/WPS/BP/fanwei/1.Fuyusi_project/00.extracted_reads/EMDA101111_R1.gz 
+/WPS/BP/fanwei/1.Fuyusi_project/00.extracted_reads/EMDA101111_R2.gz 
+
+SampleID:MALBAC101115
+
+Pair-End
+
+/WPS/BP/fanwei/1.Fuyusi_project/00.extracted_reads/MALBAC101115_R1.gz 
+/WPS/BP/fanwei/1.Fuyusi_project/00.extracted_reads/MALBAC101115_R2.gz 
+
+SampleID: Bulk101116
+
+Pair-End
+/WPS/BP/fanwei/1.Fuyusi_project/00.extracted_reads/Bulk101116_R1.gz 
+/WPS/BP/fanwei/1.Fuyusi_project/00.extracted_reads/Bulk101116_R2.gz 
+
+ 

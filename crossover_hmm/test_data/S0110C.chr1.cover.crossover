@@ -1,0 +1,4 @@
+#ChrID	crossover_pos	crossover_interval	upstream_border	downstream_border	curation_status	upHaplo_Type	upHaplo_SNPnum	downHaplo_Type	downHaplo_SNPnum
+chr1	15425128	3303	15423477	15426780	1	F	2448	M	18451
+chr1	164980553	30384	164965361	164995745	1	M	18451	F	10696
+chr1	240807067	50340	240781897	240832237	1	F	10696	M	1459
